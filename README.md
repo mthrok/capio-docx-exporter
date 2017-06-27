@@ -5,7 +5,7 @@ Generate Word document from Capio transcript
 
 ## 1. Setup
 
-### 1.1. Install as command line tool.
+- Install as command line tool.
 
 This package runs on Python 3.6 runtime.
 For the clean install, use either Anaconda or Virtualenv to create new environment.
@@ -18,7 +18,7 @@ source activate capio-word-exporter
 pip install .
 ```
 
-### 1.2. Install as executable Docker
+- Install as executable Docker
 
 You can execute the above command inside of Docker.
 
