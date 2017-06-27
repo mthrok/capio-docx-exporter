@@ -1,0 +1,13 @@
+machine:
+  python:
+    version: 3.6.0
+
+dependencies:
+  override:
+    - pip install . --upgrade
+    - pip install flake8 pylint
+
+test:
+  override:
+    - flake8 capio_word_exporter
+    - python setup.py test
