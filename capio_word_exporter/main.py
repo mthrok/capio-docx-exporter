@@ -1,7 +1,9 @@
+"""Module for processing command line arguments"""
 import logging
 import argparse
 
 from .api_client import fetch_transcript
+from .parser import parse_transcript
 
 _LG = logging.getLogger(__name__)
 
@@ -40,7 +42,10 @@ def main():
     args = _parse_command_line_args()
     _init_logging(args.debug)
     data = fetch_transcript(args.id, args.key)
-    _LG.info(data)
+    data = parse_transcript(data)
+
+    import json
+    _LG.info(json.dumps(data, indent=2))
 
 
 if __name__ == '__main__':
