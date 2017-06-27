@@ -1,0 +1,4592 @@
+[
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "um",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 0.6899999976158142,
+                "to": 1.2899999618530273,
+                "word": "um"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 0
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "part of part of it so i agree with you sometimes it sounds like a lot but i think less than a year",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 2.5,
+                "to": 2.799999952316284,
+                "word": "part"
+              },
+              {
+                "confidence": 1,
+                "from": 2.799999952316284,
+                "to": 2.9800000190734863,
+                "word": "of"
+              },
+              {
+                "confidence": 1,
+                "from": 3.069999933242798,
+                "to": 3.2799999713897705,
+                "word": "part"
+              },
+              {
+                "confidence": 1,
+                "from": 3.2799999713897705,
+                "to": 3.4000000953674316,
+                "word": "of"
+              },
+              {
+                "confidence": 1,
+                "from": 3.4000000953674316,
+                "to": 3.4932966232299805,
+                "word": "it"
+              },
+              {
+                "confidence": 0.8901110291481018,
+                "from": 3.4932966232299805,
+                "to": 3.819999933242798,
+                "word": "so"
+              },
+              {
+                "confidence": 1,
+                "from": 4.609176158905029,
+                "to": 4.774785041809082,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 4.840000152587891,
+                "to": 5.050000190734863,
+                "word": "agree"
+              },
+              {
+                "confidence": 1,
+                "from": 5.050000190734863,
+                "to": 5.230000019073486,
+                "word": "with"
+              },
+              {
+                "confidence": 1,
+                "from": 5.230000019073486,
+                "to": 5.349999904632568,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 5.380000114440918,
+                "to": 5.829999923706055,
+                "word": "sometimes"
+              },
+              {
+                "confidence": 1,
+                "from": 5.829999923706055,
+                "to": 5.949999809265137,
+                "word": "it"
+              },
+              {
+                "confidence": 1,
+                "from": 5.949999809265137,
+                "to": 6.25,
+                "word": "sounds"
+              },
+              {
+                "confidence": 1,
+                "from": 6.25,
+                "to": 6.399999618530273,
+                "word": "like"
+              },
+              {
+                "confidence": 1,
+                "from": 6.399999618530273,
+                "to": 6.489999771118164,
+                "word": "a"
+              },
+              {
+                "confidence": 1,
+                "from": 6.489999771118164,
+                "to": 6.729999542236328,
+                "word": "lot"
+              },
+              {
+                "confidence": 1,
+                "from": 6.760000228881836,
+                "to": 6.970000267028809,
+                "word": "but"
+              },
+              {
+                "confidence": 1,
+                "from": 7.420000076293945,
+                "to": 7.569999694824219,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 7.569999694824219,
+                "to": 7.840000152587891,
+                "word": "think"
+              },
+              {
+                "confidence": 1,
+                "from": 7.840000152587891,
+                "to": 8.199999809265137,
+                "word": "less"
+              },
+              {
+                "confidence": 1,
+                "from": 8.199999809265137,
+                "to": 8.34999942779541,
+                "word": "than"
+              },
+              {
+                "confidence": 1,
+                "from": 8.34999942779541,
+                "to": 8.40999984741211,
+                "word": "a"
+              },
+              {
+                "confidence": 1,
+                "from": 8.40999984741211,
+                "to": 8.800000190734863,
+                "word": "year"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 1
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "they don't learn enough",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 9.710000038146973,
+                "to": 9.860000610351562,
+                "word": "they"
+              },
+              {
+                "confidence": 1,
+                "from": 9.860000610351562,
+                "to": 10.039999961853027,
+                "word": "don't"
+              },
+              {
+                "confidence": 1,
+                "from": 10.039999961853027,
+                "to": 10.280000686645508,
+                "word": "learn"
+              },
+              {
+                "confidence": 1,
+                "from": 10.280000686645508,
+                "to": 10.730000495910645,
+                "word": "enough"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 2
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "i think you just about have to be ready from home for a full year",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 12.09000015258789,
+                "to": 12.180000305175781,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 12.180000305175781,
+                "to": 12.390000343322754,
+                "word": "think"
+              },
+              {
+                "confidence": 0.8259177803993225,
+                "from": 12.390000343322754,
+                "to": 12.485222816467285,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 12.485222816467285,
+                "to": 12.690031051635742,
+                "word": "just"
+              },
+              {
+                "confidence": 0.9989728331565857,
+                "from": 12.690031051635742,
+                "to": 12.929784774780273,
+                "word": "about"
+              },
+              {
+                "confidence": 0.9996945261955261,
+                "from": 12.929969787597656,
+                "to": 13.049975395202637,
+                "word": "have"
+              },
+              {
+                "confidence": 0.9998221397399902,
+                "from": 13.049975395202637,
+                "to": 13.139984130859375,
+                "word": "to"
+              },
+              {
+                "confidence": 0.9787575006484985,
+                "from": 13.140000343322754,
+                "to": 13.289999961853027,
+                "word": "be"
+              },
+              {
+                "confidence": 0.5912550687789917,
+                "from": 13.289999961853027,
+                "to": 13.471210479736328,
+                "word": "ready"
+              },
+              {
+                "confidence": 1,
+                "from": 13.475685119628906,
+                "to": 13.710000038146973,
+                "word": "from"
+              },
+              {
+                "confidence": 1,
+                "from": 13.710000038146973,
+                "to": 14.070000648498535,
+                "word": "home"
+              },
+              {
+                "confidence": 1,
+                "from": 14.25,
+                "to": 14.430000305175781,
+                "word": "for"
+              },
+              {
+                "confidence": 1,
+                "from": 14.430000305175781,
+                "to": 14.489999771118164,
+                "word": "a"
+              },
+              {
+                "confidence": 1,
+                "from": 14.489999771118164,
+                "to": 14.789999961853027,
+                "word": "full"
+              },
+              {
+                "confidence": 1,
+                "from": 14.789999961853027,
+                "to": 15.15000057220459,
+                "word": "year"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 3
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "under less than ideal conditions",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 16.290000915527344,
+                "to": 16.59000015258789,
+                "word": "under"
+              },
+              {
+                "confidence": 1,
+                "from": 16.59000015258789,
+                "to": 16.89000129699707,
+                "word": "less"
+              },
+              {
+                "confidence": 1,
+                "from": 16.89000129699707,
+                "to": 17.06999969482422,
+                "word": "than"
+              },
+              {
+                "confidence": 1,
+                "from": 17.06999969482422,
+                "to": 17.43000030517578,
+                "word": "ideal"
+              },
+              {
+                "confidence": 1,
+                "from": 17.46000099182129,
+                "to": 18,
+                "word": "conditions"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 4
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "to learn some of the uh uh you know lessons it really need to be learned",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 20.149999618530273,
+                "to": 20.329999923706055,
+                "word": "to"
+              },
+              {
+                "confidence": 1,
+                "from": 20.329999923706055,
+                "to": 20.56999969482422,
+                "word": "learn"
+              },
+              {
+                "confidence": 1,
+                "from": 20.56999969482422,
+                "to": 20.780000686645508,
+                "word": "some"
+              },
+              {
+                "confidence": 1,
+                "from": 20.780000686645508,
+                "to": 20.8700008392334,
+                "word": "of"
+              },
+              {
+                "confidence": 1,
+                "from": 20.8700008392334,
+                "to": 21.079999923706055,
+                "word": "the"
+              },
+              {
+                "confidence": 0.5611083507537842,
+                "from": 21.095491409301758,
+                "to": 21.265167236328125,
+                "word": "uh"
+              },
+              {
+                "confidence": 0.9869982600212097,
+                "from": 21.33249855041504,
+                "to": 21.561500549316406,
+                "word": "uh"
+              },
+              {
+                "confidence": 1,
+                "from": 21.71000099182129,
+                "to": 21.860000610351562,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 21.860000610351562,
+                "to": 21.950000762939453,
+                "word": "know"
+              },
+              {
+                "confidence": 1,
+                "from": 21.950000762939453,
+                "to": 22.333919525146484,
+                "word": "lessons"
+              },
+              {
+                "confidence": 0.7972853183746338,
+                "from": 22.333919525146484,
+                "to": 22.46000099182129,
+                "word": "it"
+              },
+              {
+                "confidence": 1,
+                "from": 22.46000099182129,
+                "to": 22.760000228881836,
+                "word": "really"
+              },
+              {
+                "confidence": 0.8007679581642151,
+                "from": 22.760000228881836,
+                "to": 22.940000534057617,
+                "word": "need"
+              },
+              {
+                "confidence": 1,
+                "from": 22.940000534057617,
+                "to": 23,
+                "word": "to"
+              },
+              {
+                "confidence": 1,
+                "from": 23,
+                "to": 23.1200008392334,
+                "word": "be"
+              },
+              {
+                "confidence": 1,
+                "from": 23.1200008392334,
+                "to": 23.450000762939453,
+                "word": "learned"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 5
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "may may i ask how old you are",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 24.26999855041504,
+                "to": 24.538965225219727,
+                "word": "may"
+              },
+              {
+                "confidence": 1,
+                "from": 24.599998474121094,
+                "to": 24.779998779296875,
+                "word": "may"
+              },
+              {
+                "confidence": 1,
+                "from": 24.779998779296875,
+                "to": 24.899999618530273,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 24.899999618530273,
+                "to": 25.19999885559082,
+                "word": "ask"
+              },
+              {
+                "confidence": 1,
+                "from": 25.19999885559082,
+                "to": 25.349998474121094,
+                "word": "how"
+              },
+              {
+                "confidence": 0.9999915957450867,
+                "from": 25.349998474121094,
+                "to": 25.55999755859375,
+                "word": "old"
+              },
+              {
+                "confidence": 0.999403715133667,
+                "from": 25.55999755859375,
+                "to": 25.679967880249023,
+                "word": "you"
+              },
+              {
+                "confidence": 0.999403715133667,
+                "from": 25.679967880249023,
+                "to": 25.920000076293945,
+                "word": "are"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 6
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "twenty six year young enough so you might have been affected rate",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 26.93000030517578,
+                "to": 27.200000762939453,
+                "word": "twenty"
+              },
+              {
+                "confidence": 0.9479657411575317,
+                "from": 27.200000762939453,
+                "to": 27.5,
+                "word": "six"
+              },
+              {
+                "confidence": 1,
+                "from": 27.5,
+                "to": 27.68000030517578,
+                "word": "year"
+              },
+              {
+                "confidence": 1,
+                "from": 27.68000030517578,
+                "to": 27.889999389648438,
+                "word": "young"
+              },
+              {
+                "confidence": 1,
+                "from": 27.889999389648438,
+                "to": 28.1299991607666,
+                "word": "enough"
+              },
+              {
+                "confidence": 1,
+                "from": 28.1299991607666,
+                "to": 28.219999313354492,
+                "word": "so"
+              },
+              {
+                "confidence": 1,
+                "from": 28.219999313354492,
+                "to": 28.3700008392334,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 28.3700008392334,
+                "to": 28.579999923706055,
+                "word": "might"
+              },
+              {
+                "confidence": 1,
+                "from": 28.579999923706055,
+                "to": 28.670000076293945,
+                "word": "have"
+              },
+              {
+                "confidence": 1,
+                "from": 28.670000076293945,
+                "to": 28.760000228881836,
+                "word": "been"
+              },
+              {
+                "confidence": 1,
+                "from": 28.760000228881836,
+                "to": 29.299999237060547,
+                "word": "affected"
+              },
+              {
+                "confidence": 0.9100139737129211,
+                "from": 29.299999237060547,
+                "to": 29.6299991607666,
+                "word": "rate"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 7
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "so yeah i really i really feel that um if every kid had to be away from home",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 32.279998779296875,
+                "to": 32.849998474121094,
+                "word": "so"
+              },
+              {
+                "confidence": 1,
+                "from": 33.14999771118164,
+                "to": 33.38999938964844,
+                "word": "yeah"
+              },
+              {
+                "confidence": 1,
+                "from": 33.38999938964844,
+                "to": 33.47999954223633,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 33.47999954223633,
+                "to": 33.80999755859375,
+                "word": "really"
+              },
+              {
+                "confidence": 1,
+                "from": 33.80999755859375,
+                "to": 33.959999084472656,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 33.959999084472656,
+                "to": 34.22999954223633,
+                "word": "really"
+              },
+              {
+                "confidence": 1,
+                "from": 34.22999954223633,
+                "to": 34.55999755859375,
+                "word": "feel"
+              },
+              {
+                "confidence": 1,
+                "from": 34.55999755859375,
+                "to": 34.87652587890625,
+                "word": "that"
+              },
+              {
+                "confidence": 0.5508614778518677,
+                "from": 34.906524658203125,
+                "to": 35.099998474121094,
+                "word": "um"
+              },
+              {
+                "confidence": 1,
+                "from": 35.279998779296875,
+                "to": 35.48999786376953,
+                "word": "if"
+              },
+              {
+                "confidence": 1,
+                "from": 35.48999786376953,
+                "to": 35.69999694824219,
+                "word": "every"
+              },
+              {
+                "confidence": 1,
+                "from": 35.69999694824219,
+                "to": 35.90999984741211,
+                "word": "kid"
+              },
+              {
+                "confidence": 1,
+                "from": 35.90999984741211,
+                "to": 36.05999755859375,
+                "word": "had"
+              },
+              {
+                "confidence": 1,
+                "from": 36.05999755859375,
+                "to": 36.119998931884766,
+                "word": "to"
+              },
+              {
+                "confidence": 1,
+                "from": 36.119998931884766,
+                "to": 36.269996643066406,
+                "word": "be"
+              },
+              {
+                "confidence": 1,
+                "from": 36.269996643066406,
+                "to": 36.44999694824219,
+                "word": "away"
+              },
+              {
+                "confidence": 1,
+                "from": 36.44999694824219,
+                "to": 36.65999984741211,
+                "word": "from"
+              },
+              {
+                "confidence": 1,
+                "from": 36.65999984741211,
+                "to": 36.93000030517578,
+                "word": "home"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 8
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "wh when they got back they certainly would have a different uh perspective",
+            "words": [
+              {
+                "confidence": 0.3473164141178131,
+                "from": 37.93842315673828,
+                "to": 38.11766815185547,
+                "word": "wh"
+              },
+              {
+                "confidence": 1,
+                "from": 38.14091873168945,
+                "to": 38.349998474121094,
+                "word": "when"
+              },
+              {
+                "confidence": 1,
+                "from": 38.349998474121094,
+                "to": 38.439998626708984,
+                "word": "they"
+              },
+              {
+                "confidence": 1,
+                "from": 38.439998626708984,
+                "to": 38.619998931884766,
+                "word": "got"
+              },
+              {
+                "confidence": 1,
+                "from": 38.619998931884766,
+                "to": 38.88999938964844,
+                "word": "back"
+              },
+              {
+                "confidence": 1,
+                "from": 38.88999938964844,
+                "to": 39.03999710083008,
+                "word": "they"
+              },
+              {
+                "confidence": 1,
+                "from": 39.06999969482422,
+                "to": 39.459999084472656,
+                "word": "certainly"
+              },
+              {
+                "confidence": 1,
+                "from": 39.459999084472656,
+                "to": 39.63999938964844,
+                "word": "would"
+              },
+              {
+                "confidence": 1,
+                "from": 39.63999938964844,
+                "to": 39.8216552734375,
+                "word": "have"
+              },
+              {
+                "confidence": 0.9815725684165955,
+                "from": 39.8216552734375,
+                "to": 39.880550384521484,
+                "word": "a"
+              },
+              {
+                "confidence": 1,
+                "from": 39.880550384521484,
+                "to": 40.38999938964844,
+                "word": "different"
+              },
+              {
+                "confidence": 1,
+                "from": 40.38999938964844,
+                "to": 40.62999725341797,
+                "word": "uh"
+              },
+              {
+                "confidence": 1,
+                "from": 41.16999816894531,
+                "to": 41.94999694824219,
+                "word": "perspective"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 9
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "yeah i mean the",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 45.08000183105469,
+                "to": 45.35000228881836,
+                "word": "yeah"
+              },
+              {
+                "confidence": 1,
+                "from": 45.35000228881836,
+                "to": 45.44000244140625,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 45.44000244140625,
+                "to": 45.650001525878906,
+                "word": "mean"
+              },
+              {
+                "confidence": 0.7345534563064575,
+                "from": 45.67203903198242,
+                "to": 45.7381477355957,
+                "word": "the"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 10
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "yeah and you know mom and dad and home look a lot better",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 49.099998474121094,
+                "to": 49.429996490478516,
+                "word": "yeah"
+              },
+              {
+                "confidence": 1,
+                "from": 49.96999740600586,
+                "to": 50.179996490478516,
+                "word": "and"
+              },
+              {
+                "confidence": 1,
+                "from": 50.179996490478516,
+                "to": 50.269996643066406,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 50.269996643066406,
+                "to": 50.38999938964844,
+                "word": "know"
+              },
+              {
+                "confidence": 0.8685708045959473,
+                "from": 50.38999938964844,
+                "to": 50.633941650390625,
+                "word": "mom"
+              },
+              {
+                "confidence": 1,
+                "from": 50.633941650390625,
+                "to": 50.75,
+                "word": "and"
+              },
+              {
+                "confidence": 1,
+                "from": 50.75,
+                "to": 50.96610641479492,
+                "word": "dad"
+              },
+              {
+                "confidence": 0.6503258943557739,
+                "from": 50.96610641479492,
+                "to": 51.074493408203125,
+                "word": "and"
+              },
+              {
+                "confidence": 0.954126238822937,
+                "from": 51.074493408203125,
+                "to": 51.28999710083008,
+                "word": "home"
+              },
+              {
+                "confidence": 1,
+                "from": 51.28999710083008,
+                "to": 51.46999740600586,
+                "word": "look"
+              },
+              {
+                "confidence": 1,
+                "from": 51.46999740600586,
+                "to": 51.529998779296875,
+                "word": "a"
+              },
+              {
+                "confidence": 1,
+                "from": 51.529998779296875,
+                "to": 51.709999084472656,
+                "word": "lot"
+              },
+              {
+                "confidence": 0.9890358448028564,
+                "from": 51.709999084472656,
+                "to": 52.0099983215332,
+                "word": "better"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 11
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "you've been away and i don't mean even in a foreign country you know i mean if you're just away from home for a year",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 53.290000915527344,
+                "to": 53.470001220703125,
+                "word": "you've"
+              },
+              {
+                "confidence": 1,
+                "from": 53.5,
+                "to": 53.7400016784668,
+                "word": "been"
+              },
+              {
+                "confidence": 1,
+                "from": 53.7400016784668,
+                "to": 54.040000915527344,
+                "word": "away"
+              },
+              {
+                "confidence": 1,
+                "from": 54.25,
+                "to": 54.43000030517578,
+                "word": "and"
+              },
+              {
+                "confidence": 1,
+                "from": 54.43000030517578,
+                "to": 54.4900016784668,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 54.4900016784668,
+                "to": 54.70000076293945,
+                "word": "don't"
+              },
+              {
+                "confidence": 1,
+                "from": 54.70000076293945,
+                "to": 54.85000228881836,
+                "word": "mean"
+              },
+              {
+                "confidence": 1,
+                "from": 54.85000228881836,
+                "to": 55.09000015258789,
+                "word": "even"
+              },
+              {
+                "confidence": 1,
+                "from": 55.09000015258789,
+                "to": 55.209999084472656,
+                "word": "in"
+              },
+              {
+                "confidence": 1,
+                "from": 55.209999084472656,
+                "to": 55.27000045776367,
+                "word": "a"
+              },
+              {
+                "confidence": 1,
+                "from": 55.27000045776367,
+                "to": 55.56999969482422,
+                "word": "foreign"
+              },
+              {
+                "confidence": 1,
+                "from": 55.56999969482422,
+                "to": 56.11000061035156,
+                "word": "country"
+              },
+              {
+                "confidence": 1,
+                "from": 56.77000045776367,
+                "to": 56.88999938964844,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 56.88999938964844,
+                "to": 57.01402282714844,
+                "word": "know"
+              },
+              {
+                "confidence": 0.932983934879303,
+                "from": 57.01402282714844,
+                "to": 57.06999969482422,
+                "word": "i"
+              },
+              {
+                "confidence": 0.932983934879303,
+                "from": 57.06999969482422,
+                "to": 57.237937927246094,
+                "word": "mean"
+              },
+              {
+                "confidence": 1,
+                "from": 57.25,
+                "to": 57.37000274658203,
+                "word": "if"
+              },
+              {
+                "confidence": 0.9368589520454407,
+                "from": 57.37000274658203,
+                "to": 57.574317932128906,
+                "word": "you're"
+              },
+              {
+                "confidence": 1,
+                "from": 57.58000183105469,
+                "to": 57.81999969482422,
+                "word": "just"
+              },
+              {
+                "confidence": 1,
+                "from": 57.81999969482422,
+                "to": 58.09000015258789,
+                "word": "away"
+              },
+              {
+                "confidence": 1,
+                "from": 58.09000015258789,
+                "to": 58.30000305175781,
+                "word": "from"
+              },
+              {
+                "confidence": 1,
+                "from": 58.30000305175781,
+                "to": 58.540000915527344,
+                "word": "home"
+              },
+              {
+                "confidence": 1,
+                "from": 58.540000915527344,
+                "to": 58.720001220703125,
+                "word": "for"
+              },
+              {
+                "confidence": 1,
+                "from": 58.720001220703125,
+                "to": 58.78000259399414,
+                "word": "a"
+              },
+              {
+                "confidence": 1,
+                "from": 58.78000259399414,
+                "to": 59.17000198364258,
+                "word": "year"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 12
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "without the comforts of that mom and dad provide if i mean if you're lucky enough to have both but uh but uh yeah i i think it would be wonderful",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 60.18000030517578,
+                "to": 60.71999740600586,
+                "word": "without"
+              },
+              {
+                "confidence": 1,
+                "from": 60.71999740600586,
+                "to": 60.80999755859375,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 60.80999755859375,
+                "to": 61.35147476196289,
+                "word": "comforts"
+              },
+              {
+                "confidence": 0.7409126162528992,
+                "from": 61.35147476196289,
+                "to": 61.47035217285156,
+                "word": "of"
+              },
+              {
+                "confidence": 0.921707034111023,
+                "from": 61.5,
+                "to": 61.64999771118164,
+                "word": "that"
+              },
+              {
+                "confidence": 0.9436419010162354,
+                "from": 61.68000030517578,
+                "to": 61.88999938964844,
+                "word": "mom"
+              },
+              {
+                "confidence": 1,
+                "from": 61.88999938964844,
+                "to": 62.0099983215332,
+                "word": "and"
+              },
+              {
+                "confidence": 1,
+                "from": 62.0099983215332,
+                "to": 62.21999740600586,
+                "word": "dad"
+              },
+              {
+                "confidence": 0.9485020041465759,
+                "from": 62.21999740600586,
+                "to": 62.641544342041016,
+                "word": "provide"
+              },
+              {
+                "confidence": 1,
+                "from": 62.641544342041016,
+                "to": 62.849998474121094,
+                "word": "if"
+              },
+              {
+                "confidence": 1,
+                "from": 62.87999725341797,
+                "to": 62.96999740600586,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 62.96999740600586,
+                "to": 63.119998931884766,
+                "word": "mean"
+              },
+              {
+                "confidence": 1,
+                "from": 63.119998931884766,
+                "to": 63.23999786376953,
+                "word": "if"
+              },
+              {
+                "confidence": 1,
+                "from": 63.23999786376953,
+                "to": 63.36000061035156,
+                "word": "you're"
+              },
+              {
+                "confidence": 1,
+                "from": 63.36000061035156,
+                "to": 63.56999969482422,
+                "word": "lucky"
+              },
+              {
+                "confidence": 1,
+                "from": 63.56999969482422,
+                "to": 63.75,
+                "word": "enough"
+              },
+              {
+                "confidence": 1,
+                "from": 63.75,
+                "to": 63.84000015258789,
+                "word": "to"
+              },
+              {
+                "confidence": 1,
+                "from": 63.84000015258789,
+                "to": 64.04999542236328,
+                "word": "have"
+              },
+              {
+                "confidence": 1,
+                "from": 64.04999542236328,
+                "to": 64.37999725341797,
+                "word": "both"
+              },
+              {
+                "confidence": 1,
+                "from": 64.40999603271484,
+                "to": 64.73999786376953,
+                "word": "but"
+              },
+              {
+                "confidence": 1,
+                "from": 64.7699966430664,
+                "to": 64.91999816894531,
+                "word": "uh"
+              },
+              {
+                "confidence": 1,
+                "from": 65.66999816894531,
+                "to": 66.08999633789062,
+                "word": "but"
+              },
+              {
+                "confidence": 0.9614514708518982,
+                "from": 66.1199951171875,
+                "to": 66.2699966430664,
+                "word": "uh"
+              },
+              {
+                "confidence": 1,
+                "from": 66.54000091552734,
+                "to": 66.72562408447266,
+                "word": "yeah"
+              },
+              {
+                "confidence": 0.8958949446678162,
+                "from": 66.72562408447266,
+                "to": 66.80999755859375,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 66.93997192382812,
+                "to": 67.04999542236328,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 67.04999542236328,
+                "to": 67.26033782958984,
+                "word": "think"
+              },
+              {
+                "confidence": 0.9887823462486267,
+                "from": 67.26033782958984,
+                "to": 67.35134887695312,
+                "word": "it"
+              },
+              {
+                "confidence": 0.9887823462486267,
+                "from": 67.35134887695312,
+                "to": 67.47000122070312,
+                "word": "would"
+              },
+              {
+                "confidence": 1,
+                "from": 67.47000122070312,
+                "to": 67.58999633789062,
+                "word": "be"
+              },
+              {
+                "confidence": 1,
+                "from": 67.58999633789062,
+                "to": 68.12999725341797,
+                "word": "wonderful"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 13
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "and i think it would broaden the horizons of the kids for really",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 70.19000244140625,
+                "to": 70.4000015258789,
+                "word": "and"
+              },
+              {
+                "confidence": 1,
+                "from": 70.4000015258789,
+                "to": 70.49000549316406,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 70.49000549316406,
+                "to": 70.7300033569336,
+                "word": "think"
+              },
+              {
+                "confidence": 1,
+                "from": 70.7300033569336,
+                "to": 70.81999969482422,
+                "word": "it"
+              },
+              {
+                "confidence": 1,
+                "from": 70.81999969482422,
+                "to": 70.97000122070312,
+                "word": "would"
+              },
+              {
+                "confidence": 1,
+                "from": 70.97000122070312,
+                "to": 71.33000183105469,
+                "word": "broaden"
+              },
+              {
+                "confidence": 1,
+                "from": 71.37007904052734,
+                "to": 71.87000274658203,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 71.9000015258789,
+                "to": 72.71000671386719,
+                "word": "horizons"
+              },
+              {
+                "confidence": 1,
+                "from": 73.46000671386719,
+                "to": 73.70000457763672,
+                "word": "of"
+              },
+              {
+                "confidence": 1,
+                "from": 73.70000457763672,
+                "to": 73.79000091552734,
+                "word": "the"
+              },
+              {
+                "confidence": 0.8929277658462524,
+                "from": 73.79000091552734,
+                "to": 74.24000549316406,
+                "word": "kids"
+              },
+              {
+                "confidence": 1,
+                "from": 74.24000549316406,
+                "to": 74.51000213623047,
+                "word": "for"
+              },
+              {
+                "confidence": 1,
+                "from": 74.51000213623047,
+                "to": 75.05000305175781,
+                "word": "really"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 14
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "the way the rest of the world the rest of the country lives",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 76.00999450683594,
+                "to": 76.12999725341797,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 76.12999725341797,
+                "to": 76.25,
+                "word": "way"
+              },
+              {
+                "confidence": 1,
+                "from": 76.25,
+                "to": 76.39999389648438,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 76.39999389648438,
+                "to": 76.63999938964844,
+                "word": "rest"
+              },
+              {
+                "confidence": 1,
+                "from": 76.63999938964844,
+                "to": 76.69999694824219,
+                "word": "of"
+              },
+              {
+                "confidence": 1,
+                "from": 76.69999694824219,
+                "to": 76.78999328613281,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 76.78999328613281,
+                "to": 77.2699966430664,
+                "word": "world"
+              },
+              {
+                "confidence": 1,
+                "from": 77.35999298095703,
+                "to": 77.50999450683594,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 77.50999450683594,
+                "to": 77.75,
+                "word": "rest"
+              },
+              {
+                "confidence": 1,
+                "from": 77.75,
+                "to": 77.83999633789062,
+                "word": "of"
+              },
+              {
+                "confidence": 1,
+                "from": 77.83999633789062,
+                "to": 77.92999267578125,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 77.92999267578125,
+                "to": 78.31999969482422,
+                "word": "country"
+              },
+              {
+                "confidence": 1,
+                "from": 78.31999969482422,
+                "to": 78.7699966430664,
+                "word": "lives"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 15
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "it's a it's a matter of getting a feeling for humanity itself i think",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 83.43000030517578,
+                "to": 83.67623138427734,
+                "word": "it's"
+              },
+              {
+                "confidence": 0.7924869656562805,
+                "from": 83.67623138427734,
+                "to": 83.7237777709961,
+                "word": "a"
+              },
+              {
+                "confidence": 1,
+                "from": 83.75377655029297,
+                "to": 83.94000244140625,
+                "word": "it's"
+              },
+              {
+                "confidence": 1,
+                "from": 83.94000244140625,
+                "to": 84.0300064086914,
+                "word": "a"
+              },
+              {
+                "confidence": 1,
+                "from": 84.0300064086914,
+                "to": 84.39000701904297,
+                "word": "matter"
+              },
+              {
+                "confidence": 1,
+                "from": 84.39000701904297,
+                "to": 84.60000610351562,
+                "word": "of"
+              },
+              {
+                "confidence": 1,
+                "from": 84.72000122070312,
+                "to": 85.07908630371094,
+                "word": "getting"
+              },
+              {
+                "confidence": 0.9694608449935913,
+                "from": 85.07908630371094,
+                "to": 85.14000701904297,
+                "word": "a"
+              },
+              {
+                "confidence": 1,
+                "from": 85.1690902709961,
+                "to": 85.59000396728516,
+                "word": "feeling"
+              },
+              {
+                "confidence": 1,
+                "from": 85.59000396728516,
+                "to": 85.77000427246094,
+                "word": "for"
+              },
+              {
+                "confidence": 1,
+                "from": 85.77000427246094,
+                "to": 86.2800064086914,
+                "word": "humanity"
+              },
+              {
+                "confidence": 1,
+                "from": 86.2800064086914,
+                "to": 86.70000457763672,
+                "word": "itself"
+              },
+              {
+                "confidence": 1,
+                "from": 86.70000457763672,
+                "to": 86.76000213623047,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 86.76000213623047,
+                "to": 87.1500015258789,
+                "word": "think"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 16
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "have you been in the service at all",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 89.33000183105469,
+                "to": 89.4800033569336,
+                "word": "have"
+              },
+              {
+                "confidence": 1,
+                "from": 89.4800033569336,
+                "to": 89.60000610351562,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 89.60000610351562,
+                "to": 89.75,
+                "word": "been"
+              },
+              {
+                "confidence": 1,
+                "from": 89.75,
+                "to": 89.87000274658203,
+                "word": "in"
+              },
+              {
+                "confidence": 1,
+                "from": 89.87000274658203,
+                "to": 89.93000030517578,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 89.93000030517578,
+                "to": 90.31999969482422,
+                "word": "service"
+              },
+              {
+                "confidence": 1,
+                "from": 90.31999969482422,
+                "to": 90.44000244140625,
+                "word": "at"
+              },
+              {
+                "confidence": 1,
+                "from": 90.44000244140625,
+                "to": 90.68000030517578,
+                "word": "all"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 17
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "or listen uh that isn't even funny i don't know why i laughed please forgive me it asks it has to have been awful",
+            "words": [
+              {
+                "confidence": 0.8423652052879333,
+                "from": 97.28278350830078,
+                "to": 97.48784637451172,
+                "word": "or"
+              },
+              {
+                "confidence": 1,
+                "from": 97.5999984741211,
+                "to": 98.05000305175781,
+                "word": "listen"
+              },
+              {
+                "confidence": 0.47561535239219666,
+                "from": 98.07344055175781,
+                "to": 98.26134490966797,
+                "word": "uh"
+              },
+              {
+                "confidence": 0.9961656332015991,
+                "from": 98.26618194580078,
+                "to": 98.45475006103516,
+                "word": "that"
+              },
+              {
+                "confidence": 1,
+                "from": 98.47000122070312,
+                "to": 98.68000030517578,
+                "word": "isn't"
+              },
+              {
+                "confidence": 1,
+                "from": 98.68000030517578,
+                "to": 98.86000061035156,
+                "word": "even"
+              },
+              {
+                "confidence": 1,
+                "from": 98.86000061035156,
+                "to": 99.15999603271484,
+                "word": "funny"
+              },
+              {
+                "confidence": 1,
+                "from": 99.15999603271484,
+                "to": 99.22000122070312,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 99.22000122070312,
+                "to": 99.43663024902344,
+                "word": "don't"
+              },
+              {
+                "confidence": 0.9447638392448425,
+                "from": 99.43663024902344,
+                "to": 99.55000305175781,
+                "word": "know"
+              },
+              {
+                "confidence": 0.8885393142700195,
+                "from": 99.55000305175781,
+                "to": 99.69868469238281,
+                "word": "why"
+              },
+              {
+                "confidence": 1,
+                "from": 99.69868469238281,
+                "to": 99.79000091552734,
+                "word": "i"
+              },
+              {
+                "confidence": 0.8128407597541809,
+                "from": 99.79000091552734,
+                "to": 100.12000274658203,
+                "word": "laughed"
+              },
+              {
+                "confidence": 1,
+                "from": 100.1500015258789,
+                "to": 100.44999694824219,
+                "word": "please"
+              },
+              {
+                "confidence": 1,
+                "from": 100.44999694824219,
+                "to": 100.83999633789062,
+                "word": "forgive"
+              },
+              {
+                "confidence": 1,
+                "from": 100.83999633789062,
+                "to": 100.95999908447266,
+                "word": "me"
+              },
+              {
+                "confidence": 1,
+                "from": 100.95999908447266,
+                "to": 101.08000183105469,
+                "word": "it"
+              },
+              {
+                "confidence": 0.7235714197158813,
+                "from": 101.08000183105469,
+                "to": 101.44000244140625,
+                "word": "asks"
+              },
+              {
+                "confidence": 1,
+                "from": 101.94999694824219,
+                "to": 102.12999725341797,
+                "word": "it"
+              },
+              {
+                "confidence": 1,
+                "from": 102.12999725341797,
+                "to": 102.4000015258789,
+                "word": "has"
+              },
+              {
+                "confidence": 1,
+                "from": 102.4000015258789,
+                "to": 102.5199966430664,
+                "word": "to"
+              },
+              {
+                "confidence": 1,
+                "from": 102.5199966430664,
+                "to": 102.63999938964844,
+                "word": "have"
+              },
+              {
+                "confidence": 1,
+                "from": 102.63999938964844,
+                "to": 102.79000091552734,
+                "word": "been"
+              },
+              {
+                "confidence": 1,
+                "from": 102.81999969482422,
+                "to": 103.33000183105469,
+                "word": "awful"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 18
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "it's uh i am so distressed with the media",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 111.97000122070312,
+                "to": 112.33000183105469,
+                "word": "it's"
+              },
+              {
+                "confidence": 0.9629981517791748,
+                "from": 112.36000061035156,
+                "to": 112.60000610351562,
+                "word": "uh"
+              },
+              {
+                "confidence": 0.6043256521224976,
+                "from": 112.92633819580078,
+                "to": 112.99885559082031,
+                "word": "i"
+              },
+              {
+                "confidence": 0.6043256521224976,
+                "from": 113.2125244140625,
+                "to": 113.3800048828125,
+                "word": "am"
+              },
+              {
+                "confidence": 1,
+                "from": 113.3800048828125,
+                "to": 113.59000396728516,
+                "word": "so"
+              },
+              {
+                "confidence": 1,
+                "from": 113.59000396728516,
+                "to": 114.1300048828125,
+                "word": "distressed"
+              },
+              {
+                "confidence": 1,
+                "from": 114.1300048828125,
+                "to": 114.2800064086914,
+                "word": "with"
+              },
+              {
+                "confidence": 1,
+                "from": 114.2800064086914,
+                "to": 114.37000274658203,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 114.37000274658203,
+                "to": 114.85000610351562,
+                "word": "media"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 19
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "the the the people in the helicopter that did not land and see if that guy from being killed",
+            "words": [
+              {
+                "confidence": 0.8556696772575378,
+                "from": 115.90535736083984,
+                "to": 116.03370666503906,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 116.0940170288086,
+                "to": 116.2440185546875,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 116.27401733398438,
+                "to": 116.39834594726562,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 116.41566467285156,
+                "to": 116.77999877929688,
+                "word": "people"
+              },
+              {
+                "confidence": 1,
+                "from": 116.77999877929688,
+                "to": 116.8699951171875,
+                "word": "in"
+              },
+              {
+                "confidence": 1,
+                "from": 116.8699951171875,
+                "to": 116.98999786376953,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 117.0199966430664,
+                "to": 117.6199951171875,
+                "word": "helicopter"
+              },
+              {
+                "confidence": 1,
+                "from": 117.6199951171875,
+                "to": 117.7699966430664,
+                "word": "that"
+              },
+              {
+                "confidence": 1,
+                "from": 117.7699966430664,
+                "to": 117.94999694824219,
+                "word": "did"
+              },
+              {
+                "confidence": 1,
+                "from": 117.94999694824219,
+                "to": 118.2199935913086,
+                "word": "not"
+              },
+              {
+                "confidence": 1,
+                "from": 118.2199935913086,
+                "to": 118.66999816894531,
+                "word": "land"
+              },
+              {
+                "confidence": 1,
+                "from": 118.69999694824219,
+                "to": 118.87999725341797,
+                "word": "and"
+              },
+              {
+                "confidence": 0.5934493541717529,
+                "from": 118.87999725341797,
+                "to": 118.98148345947266,
+                "word": "see"
+              },
+              {
+                "confidence": 0.38560760021209717,
+                "from": 118.98148345947266,
+                "to": 119.11376190185547,
+                "word": "if"
+              },
+              {
+                "confidence": 1,
+                "from": 119.11376190185547,
+                "to": 119.29999542236328,
+                "word": "that"
+              },
+              {
+                "confidence": 1,
+                "from": 119.29999542236328,
+                "to": 119.44999694824219,
+                "word": "guy"
+              },
+              {
+                "confidence": 1,
+                "from": 119.44999694824219,
+                "to": 119.65999603271484,
+                "word": "from"
+              },
+              {
+                "confidence": 1,
+                "from": 119.65999603271484,
+                "to": 119.8699951171875,
+                "word": "being"
+              },
+              {
+                "confidence": 1,
+                "from": 119.8699951171875,
+                "to": 120.19999694824219,
+                "word": "killed"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 20
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "i mean",
+            "words": [
+              {
+                "confidence": 0.668860137462616,
+                "from": 123.44059753417969,
+                "to": 123.49114227294922,
+                "word": "i"
+              },
+              {
+                "confidence": 0.6109984517097473,
+                "from": 123.5462646484375,
+                "to": 123.69085693359375,
+                "word": "mean"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 21
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "well i mean this is not like we're fighting the war someplace else",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 125.7199935913086,
+                "to": 126.04999542236328,
+                "word": "well"
+              },
+              {
+                "confidence": 1,
+                "from": 126.04999542236328,
+                "to": 126.11000061035156,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 126.11000061035156,
+                "to": 126.29000091552734,
+                "word": "mean"
+              },
+              {
+                "confidence": 1,
+                "from": 126.29000091552734,
+                "to": 126.4699935913086,
+                "word": "this"
+              },
+              {
+                "confidence": 1,
+                "from": 126.4699935913086,
+                "to": 126.6199951171875,
+                "word": "is"
+              },
+              {
+                "confidence": 1,
+                "from": 126.6199951171875,
+                "to": 126.88999938964844,
+                "word": "not"
+              },
+              {
+                "confidence": 1,
+                "from": 126.88999938964844,
+                "to": 127.0999984741211,
+                "word": "like"
+              },
+              {
+                "confidence": 1,
+                "from": 127.0999984741211,
+                "to": 127.27999877929688,
+                "word": "we're"
+              },
+              {
+                "confidence": 1,
+                "from": 127.27999877929688,
+                "to": 127.61741638183594,
+                "word": "fighting"
+              },
+              {
+                "confidence": 0.7526293992996216,
+                "from": 127.61741638183594,
+                "to": 127.72999572753906,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 127.72999572753906,
+                "to": 128.14999389648438,
+                "word": "war"
+              },
+              {
+                "confidence": 1,
+                "from": 128.17999267578125,
+                "to": 128.75,
+                "word": "someplace"
+              },
+              {
+                "confidence": 1,
+                "from": 128.75,
+                "to": 129.1699981689453,
+                "word": "else"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 22
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "this is this is the bad guys we're killing us i'm sorry you know i just can't believe that they didn't go down there and stop that from happening",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 130.98001098632812,
+                "to": 131.27999877929688,
+                "word": "this"
+              },
+              {
+                "confidence": 1,
+                "from": 131.27999877929688,
+                "to": 131.52000427246094,
+                "word": "is"
+              },
+              {
+                "confidence": 1,
+                "from": 131.760009765625,
+                "to": 132,
+                "word": "this"
+              },
+              {
+                "confidence": 1,
+                "from": 132,
+                "to": 132.12001037597656,
+                "word": "is"
+              },
+              {
+                "confidence": 1,
+                "from": 132.12001037597656,
+                "to": 132.24000549316406,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 132.24000549316406,
+                "to": 132.54000854492188,
+                "word": "bad"
+              },
+              {
+                "confidence": 1,
+                "from": 132.54000854492188,
+                "to": 132.77999877929688,
+                "word": "guys"
+              },
+              {
+                "confidence": 0.5782588720321655,
+                "from": 132.77999877929688,
+                "to": 132.90000915527344,
+                "word": "we're"
+              },
+              {
+                "confidence": 1,
+                "from": 132.9600067138672,
+                "to": 133.35000610351562,
+                "word": "killing"
+              },
+              {
+                "confidence": 1,
+                "from": 133.35000610351562,
+                "to": 133.8300018310547,
+                "word": "us"
+              },
+              {
+                "confidence": 1,
+                "from": 133.92344665527344,
+                "to": 134.16000366210938,
+                "word": "i'm"
+              },
+              {
+                "confidence": 1,
+                "from": 134.16000366210938,
+                "to": 134.61000061035156,
+                "word": "sorry"
+              },
+              {
+                "confidence": 0.9471059441566467,
+                "from": 134.63841247558594,
+                "to": 134.81539916992188,
+                "word": "you"
+              },
+              {
+                "confidence": 0.9471059441566467,
+                "from": 134.81539916992188,
+                "to": 135.0142822265625,
+                "word": "know"
+              },
+              {
+                "confidence": 1,
+                "from": 135.27000427246094,
+                "to": 135.36000061035156,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 135.36000061035156,
+                "to": 135.57000732421875,
+                "word": "just"
+              },
+              {
+                "confidence": 1,
+                "from": 135.57000732421875,
+                "to": 135.77999877929688,
+                "word": "can't"
+              },
+              {
+                "confidence": 1,
+                "from": 135.77999877929688,
+                "to": 136.02000427246094,
+                "word": "believe"
+              },
+              {
+                "confidence": 0.8117061257362366,
+                "from": 136.02000427246094,
+                "to": 136.14453125,
+                "word": "that"
+              },
+              {
+                "confidence": 1,
+                "from": 136.14453125,
+                "to": 136.260009765625,
+                "word": "they"
+              },
+              {
+                "confidence": 1,
+                "from": 136.260009765625,
+                "to": 136.44000244140625,
+                "word": "didn't"
+              },
+              {
+                "confidence": 1,
+                "from": 136.44000244140625,
+                "to": 136.55999755859375,
+                "word": "go"
+              },
+              {
+                "confidence": 1,
+                "from": 136.55999755859375,
+                "to": 136.77000427246094,
+                "word": "down"
+              },
+              {
+                "confidence": 1,
+                "from": 136.77000427246094,
+                "to": 136.86000061035156,
+                "word": "there"
+              },
+              {
+                "confidence": 1,
+                "from": 136.86000061035156,
+                "to": 137.04000854492188,
+                "word": "and"
+              },
+              {
+                "confidence": 0.9859544038772583,
+                "from": 137.04000854492188,
+                "to": 137.30999755859375,
+                "word": "stop"
+              },
+              {
+                "confidence": 1,
+                "from": 137.30999755859375,
+                "to": 137.4600067138672,
+                "word": "that"
+              },
+              {
+                "confidence": 1,
+                "from": 137.4600067138672,
+                "to": 137.63999938964844,
+                "word": "from"
+              },
+              {
+                "confidence": 1,
+                "from": 137.63999938964844,
+                "to": 138.12001037597656,
+                "word": "happening"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 23
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "i i would think so but uh are you married",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 143.8400115966797,
+                "to": 144.02000427246094,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 144.02000427246094,
+                "to": 144.1699981689453,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 144.1699981689453,
+                "to": 144.35000610351562,
+                "word": "would"
+              },
+              {
+                "confidence": 1,
+                "from": 144.35000610351562,
+                "to": 144.5900115966797,
+                "word": "think"
+              },
+              {
+                "confidence": 1,
+                "from": 144.62001037597656,
+                "to": 144.8300018310547,
+                "word": "so"
+              },
+              {
+                "confidence": 1,
+                "from": 144.8300018310547,
+                "to": 145.19000244140625,
+                "word": "but"
+              },
+              {
+                "confidence": 1,
+                "from": 145.19000244140625,
+                "to": 145.30999755859375,
+                "word": "uh"
+              },
+              {
+                "confidence": 1,
+                "from": 145.63999938964844,
+                "to": 145.91000366210938,
+                "word": "are"
+              },
+              {
+                "confidence": 1,
+                "from": 145.91000366210938,
+                "to": 146.02999877929688,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 146.02999877929688,
+                "to": 146.4199981689453,
+                "word": "married"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 24
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "so you don't have anybody yet that you have to feel that you have to protect",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 147.35000610351562,
+                "to": 147.44000244140625,
+                "word": "so"
+              },
+              {
+                "confidence": 1,
+                "from": 147.44000244140625,
+                "to": 147.58999633789062,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 147.58999633789062,
+                "to": 147.77000427246094,
+                "word": "don't"
+              },
+              {
+                "confidence": 1,
+                "from": 147.77000427246094,
+                "to": 147.9199981689453,
+                "word": "have"
+              },
+              {
+                "confidence": 1,
+                "from": 147.9199981689453,
+                "to": 148.30999755859375,
+                "word": "anybody"
+              },
+              {
+                "confidence": 1,
+                "from": 148.30999755859375,
+                "to": 148.5500030517578,
+                "word": "yet"
+              },
+              {
+                "confidence": 0.9692516922950745,
+                "from": 148.5800018310547,
+                "to": 148.7281494140625,
+                "word": "that"
+              },
+              {
+                "confidence": 1,
+                "from": 148.7290802001953,
+                "to": 148.8380126953125,
+                "word": "you"
+              },
+              {
+                "confidence": 0.6005505919456482,
+                "from": 148.8380126953125,
+                "to": 148.9100799560547,
+                "word": "have"
+              },
+              {
+                "confidence": 0.6005505919456482,
+                "from": 148.9100799560547,
+                "to": 148.96412658691406,
+                "word": "to"
+              },
+              {
+                "confidence": 1,
+                "from": 149.05999755859375,
+                "to": 149.3300018310547,
+                "word": "feel"
+              },
+              {
+                "confidence": 1,
+                "from": 149.3300018310547,
+                "to": 149.4499969482422,
+                "word": "that"
+              },
+              {
+                "confidence": 1,
+                "from": 149.4499969482422,
+                "to": 149.57000732421875,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 149.57000732421875,
+                "to": 149.69000244140625,
+                "word": "have"
+              },
+              {
+                "confidence": 1,
+                "from": 149.69000244140625,
+                "to": 149.80999755859375,
+                "word": "to"
+              },
+              {
+                "confidence": 1,
+                "from": 149.80999755859375,
+                "to": 150.5,
+                "word": "protect"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 25
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "but uh",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 151.3400115966797,
+                "to": 151.73001098632812,
+                "word": "but"
+              },
+              {
+                "confidence": 0.77512127161026,
+                "from": 151.760009765625,
+                "to": 152,
+                "word": "uh"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 26
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "well let's think on this for a moment if if you had been required sometime around the age of twenty to spend a year someplace doing something what what sort of things might you feel would be uh the types of things that would do good for the country",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 153.05999755859375,
+                "to": 153.510009765625,
+                "word": "well"
+              },
+              {
+                "confidence": 1,
+                "from": 154.09170532226562,
+                "to": 154.3457489013672,
+                "word": "let's"
+              },
+              {
+                "confidence": 0.8705558180809021,
+                "from": 154.4061279296875,
+                "to": 154.65000915527344,
+                "word": "think"
+              },
+              {
+                "confidence": 1,
+                "from": 154.65000915527344,
+                "to": 154.77000427246094,
+                "word": "on"
+              },
+              {
+                "confidence": 1,
+                "from": 154.77000427246094,
+                "to": 154.9499969482422,
+                "word": "this"
+              },
+              {
+                "confidence": 1,
+                "from": 154.9499969482422,
+                "to": 155.07000732421875,
+                "word": "for"
+              },
+              {
+                "confidence": 1,
+                "from": 155.07000732421875,
+                "to": 155.10000610351562,
+                "word": "a"
+              },
+              {
+                "confidence": 1,
+                "from": 155.10000610351562,
+                "to": 155.49000549316406,
+                "word": "moment"
+              },
+              {
+                "confidence": 1,
+                "from": 155.52000427246094,
+                "to": 156.1800079345703,
+                "word": "if"
+              },
+              {
+                "confidence": 1,
+                "from": 156.3300018310547,
+                "to": 156.69000244140625,
+                "word": "if"
+              },
+              {
+                "confidence": 0.8681298494338989,
+                "from": 156.69000244140625,
+                "to": 156.87001037597656,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 156.87001037597656,
+                "to": 157.02000427246094,
+                "word": "had"
+              },
+              {
+                "confidence": 1,
+                "from": 157.02000427246094,
+                "to": 157.1999969482422,
+                "word": "been"
+              },
+              {
+                "confidence": 1,
+                "from": 157.1999969482422,
+                "to": 157.74000549316406,
+                "word": "required"
+              },
+              {
+                "confidence": 1,
+                "from": 157.77000427246094,
+                "to": 158.49000549316406,
+                "word": "sometime"
+              },
+              {
+                "confidence": 1,
+                "from": 159.1800079345703,
+                "to": 159.48001098632812,
+                "word": "around"
+              },
+              {
+                "confidence": 1,
+                "from": 159.48001098632812,
+                "to": 159.57000732421875,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 159.57000732421875,
+                "to": 159.75,
+                "word": "age"
+              },
+              {
+                "confidence": 1,
+                "from": 159.75,
+                "to": 159.83999633789062,
+                "word": "of"
+              },
+              {
+                "confidence": 0.9847484827041626,
+                "from": 159.8695526123047,
+                "to": 160.16497802734375,
+                "word": "twenty"
+              },
+              {
+                "confidence": 0.8156450986862183,
+                "from": 160.16543579101562,
+                "to": 160.29000854492188,
+                "word": "to"
+              },
+              {
+                "confidence": 1,
+                "from": 160.29000854492188,
+                "to": 160.62001037597656,
+                "word": "spend"
+              },
+              {
+                "confidence": 1,
+                "from": 160.62001037597656,
+                "to": 160.6800079345703,
+                "word": "a"
+              },
+              {
+                "confidence": 1,
+                "from": 160.6800079345703,
+                "to": 160.88999938964844,
+                "word": "year"
+              },
+              {
+                "confidence": 1,
+                "from": 160.88999938964844,
+                "to": 161.4300079345703,
+                "word": "someplace"
+              },
+              {
+                "confidence": 1,
+                "from": 161.4600067138672,
+                "to": 161.760009765625,
+                "word": "doing"
+              },
+              {
+                "confidence": 1,
+                "from": 161.760009765625,
+                "to": 162.2100067138672,
+                "word": "something"
+              },
+              {
+                "confidence": 1,
+                "from": 162.90000915527344,
+                "to": 163.1999969482422,
+                "word": "what"
+              },
+              {
+                "confidence": 1,
+                "from": 163.23001098632812,
+                "to": 163.47000122070312,
+                "word": "what"
+              },
+              {
+                "confidence": 0.9546131491661072,
+                "from": 163.47000122070312,
+                "to": 163.6800079345703,
+                "word": "sort"
+              },
+              {
+                "confidence": 1,
+                "from": 163.6800079345703,
+                "to": 163.74000549316406,
+                "word": "of"
+              },
+              {
+                "confidence": 1,
+                "from": 163.77000427246094,
+                "to": 164.04000854492188,
+                "word": "things"
+              },
+              {
+                "confidence": 1,
+                "from": 164.04000854492188,
+                "to": 164.27999877929688,
+                "word": "might"
+              },
+              {
+                "confidence": 1,
+                "from": 164.27999877929688,
+                "to": 164.49000549316406,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 164.49000549316406,
+                "to": 164.82000732421875,
+                "word": "feel"
+              },
+              {
+                "confidence": 1,
+                "from": 164.82000732421875,
+                "to": 165.02999877929688,
+                "word": "would"
+              },
+              {
+                "confidence": 1,
+                "from": 165.02999877929688,
+                "to": 165.3300018310547,
+                "word": "be"
+              },
+              {
+                "confidence": 1,
+                "from": 165.3300018310547,
+                "to": 165.48001098632812,
+                "word": "uh"
+              },
+              {
+                "confidence": 1,
+                "from": 166.32000732421875,
+                "to": 166.47000122070312,
+                "word": "the"
+              },
+              {
+                "confidence": 0.5067293047904968,
+                "from": 166.47000122070312,
+                "to": 166.74000549316406,
+                "word": "types"
+              },
+              {
+                "confidence": 1,
+                "from": 166.74000549316406,
+                "to": 166.8000030517578,
+                "word": "of"
+              },
+              {
+                "confidence": 1,
+                "from": 166.8300018310547,
+                "to": 167.1300048828125,
+                "word": "things"
+              },
+              {
+                "confidence": 1,
+                "from": 167.1300048828125,
+                "to": 167.25,
+                "word": "that"
+              },
+              {
+                "confidence": 1,
+                "from": 167.25,
+                "to": 167.4300079345703,
+                "word": "would"
+              },
+              {
+                "confidence": 1,
+                "from": 167.4300079345703,
+                "to": 167.5800018310547,
+                "word": "do"
+              },
+              {
+                "confidence": 1,
+                "from": 167.5800018310547,
+                "to": 167.760009765625,
+                "word": "good"
+              },
+              {
+                "confidence": 1,
+                "from": 167.760009765625,
+                "to": 167.91000366210938,
+                "word": "for"
+              },
+              {
+                "confidence": 1,
+                "from": 167.91000366210938,
+                "to": 167.97000122070312,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 167.97000122070312,
+                "to": 168.4199981689453,
+                "word": "country"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 27
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "upper middle class probably",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 181.010009765625,
+                "to": 181.25,
+                "word": "upper"
+              },
+              {
+                "confidence": 0.9428845643997192,
+                "from": 181.25,
+                "to": 181.47630310058594,
+                "word": "middle"
+              },
+              {
+                "confidence": 0.9428845643997192,
+                "from": 181.47630310058594,
+                "to": 181.85000610351562,
+                "word": "class"
+              },
+              {
+                "confidence": 1,
+                "from": 181.8800048828125,
+                "to": 182.36000061035156,
+                "word": "probably"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 28
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "or are you higher than that",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 184.05999755859375,
+                "to": 184.20999145507812,
+                "word": "or"
+              },
+              {
+                "confidence": 1,
+                "from": 184.20999145507812,
+                "to": 184.29998779296875,
+                "word": "are"
+              },
+              {
+                "confidence": 1,
+                "from": 184.29998779296875,
+                "to": 184.4199981689453,
+                "word": "you"
+              },
+              {
+                "confidence": 0.9225381016731262,
+                "from": 184.4199981689453,
+                "to": 184.6599884033203,
+                "word": "higher"
+              },
+              {
+                "confidence": 1,
+                "from": 184.6599884033203,
+                "to": 184.83999633789062,
+                "word": "than"
+              },
+              {
+                "confidence": 1,
+                "from": 184.83999633789062,
+                "to": 185.11000061035156,
+                "word": "that"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 29
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "yeah that's true um",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 191.88999938964844,
+                "to": 192.0699920654297,
+                "word": "yeah"
+              },
+              {
+                "confidence": 1,
+                "from": 192.0699920654297,
+                "to": 192.30999755859375,
+                "word": "that's"
+              },
+              {
+                "confidence": 1,
+                "from": 192.30999755859375,
+                "to": 192.57998657226562,
+                "word": "true"
+              },
+              {
+                "confidence": 1,
+                "from": 193.08999633789062,
+                "to": 193.4199981689453,
+                "word": "um"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 30
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "do you feel that uh well i i personally feel about six weeks of basic training ought to be a mandatory part of this year",
+            "words": [
+              {
+                "confidence": 0.8449335098266602,
+                "from": 194.71673583984375,
+                "to": 194.8688201904297,
+                "word": "do"
+              },
+              {
+                "confidence": 1,
+                "from": 194.89208984375,
+                "to": 195.0399932861328,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 195.0399932861328,
+                "to": 195.3699951171875,
+                "word": "feel"
+              },
+              {
+                "confidence": 1,
+                "from": 195.3699951171875,
+                "to": 195.64114379882812,
+                "word": "that"
+              },
+              {
+                "confidence": 0.9615366458892822,
+                "from": 195.671142578125,
+                "to": 196,
+                "word": "uh"
+              },
+              {
+                "confidence": 1,
+                "from": 196.62998962402344,
+                "to": 196.95480346679688,
+                "word": "well"
+              },
+              {
+                "confidence": 1,
+                "from": 196.95480346679688,
+                "to": 197.07595825195312,
+                "word": "i"
+              },
+              {
+                "confidence": 0.8269195556640625,
+                "from": 197.07595825195312,
+                "to": 197.1999969482422,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 197.20518493652344,
+                "to": 197.6199951171875,
+                "word": "personally"
+              },
+              {
+                "confidence": 1,
+                "from": 197.6199951171875,
+                "to": 197.84042358398438,
+                "word": "feel"
+              },
+              {
+                "confidence": 0.6525476574897766,
+                "from": 197.84042358398438,
+                "to": 198.00999450683594,
+                "word": "about"
+              },
+              {
+                "confidence": 1,
+                "from": 198.00999450683594,
+                "to": 198.33999633789062,
+                "word": "six"
+              },
+              {
+                "confidence": 1,
+                "from": 198.33999633789062,
+                "to": 198.5800018310547,
+                "word": "weeks"
+              },
+              {
+                "confidence": 0.9329908490180969,
+                "from": 198.5800018310547,
+                "to": 198.6959686279297,
+                "word": "of"
+              },
+              {
+                "confidence": 1,
+                "from": 198.6959686279297,
+                "to": 199,
+                "word": "basic"
+              },
+              {
+                "confidence": 1,
+                "from": 199.02999877929688,
+                "to": 199.38999938964844,
+                "word": "training"
+              },
+              {
+                "confidence": 1,
+                "from": 199.38999938964844,
+                "to": 199.50999450683594,
+                "word": "ought"
+              },
+              {
+                "confidence": 1,
+                "from": 199.50999450683594,
+                "to": 199.5699920654297,
+                "word": "to"
+              },
+              {
+                "confidence": 1,
+                "from": 199.5699920654297,
+                "to": 199.72000122070312,
+                "word": "be"
+              },
+              {
+                "confidence": 1,
+                "from": 199.83999633789062,
+                "to": 199.92999267578125,
+                "word": "a"
+              },
+              {
+                "confidence": 1,
+                "from": 199.92999267578125,
+                "to": 200.52999877929688,
+                "word": "mandatory"
+              },
+              {
+                "confidence": 1,
+                "from": 200.52999877929688,
+                "to": 200.76998901367188,
+                "word": "part"
+              },
+              {
+                "confidence": 1,
+                "from": 200.76998901367188,
+                "to": 200.9199981689453,
+                "word": "of"
+              },
+              {
+                "confidence": 1,
+                "from": 200.9199981689453,
+                "to": 201.12998962402344,
+                "word": "this"
+              },
+              {
+                "confidence": 1,
+                "from": 201.12998962402344,
+                "to": 201.489990234375,
+                "word": "year"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 31
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "do you have any feelings about that",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 202.78001403808594,
+                "to": 202.8400115966797,
+                "word": "do"
+              },
+              {
+                "confidence": 1,
+                "from": 202.8400115966797,
+                "to": 202.90000915527344,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 202.90000915527344,
+                "to": 202.99000549316406,
+                "word": "have"
+              },
+              {
+                "confidence": 1,
+                "from": 202.99000549316406,
+                "to": 203.1400146484375,
+                "word": "any"
+              },
+              {
+                "confidence": 1,
+                "from": 203.1400146484375,
+                "to": 203.47000122070312,
+                "word": "feelings"
+              },
+              {
+                "confidence": 1,
+                "from": 203.47000122070312,
+                "to": 203.74000549316406,
+                "word": "about"
+              },
+              {
+                "confidence": 1,
+                "from": 203.74000549316406,
+                "to": 204.010009765625,
+                "word": "that"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 32
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "well you okay you make it as rigorous as you can",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 210.62001037597656,
+                "to": 210.98001098632812,
+                "word": "well"
+              },
+              {
+                "confidence": 1,
+                "from": 211.04000854492188,
+                "to": 211.49000549316406,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 211.82000732421875,
+                "to": 212.24000549316406,
+                "word": "okay"
+              },
+              {
+                "confidence": 1,
+                "from": 212.27000427246094,
+                "to": 212.48001098632812,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 212.48001098632812,
+                "to": 212.69000244140625,
+                "word": "make"
+              },
+              {
+                "confidence": 1,
+                "from": 212.69000244140625,
+                "to": 212.77999877929688,
+                "word": "it"
+              },
+              {
+                "confidence": 1,
+                "from": 212.77999877929688,
+                "to": 212.90000915527344,
+                "word": "as"
+              },
+              {
+                "confidence": 1,
+                "from": 212.90000915527344,
+                "to": 213.32000732421875,
+                "word": "rigorous"
+              },
+              {
+                "confidence": 1,
+                "from": 213.32000732421875,
+                "to": 213.44000244140625,
+                "word": "as"
+              },
+              {
+                "confidence": 1,
+                "from": 213.44000244140625,
+                "to": 213.55999755859375,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 213.55999755859375,
+                "to": 214.04000854492188,
+                "word": "can"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 33
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "for everybody you know and if they just can't make it uh it's like other things you you lesson as soon as they can make it",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 215.22000122070312,
+                "to": 215.52000427246094,
+                "word": "for"
+              },
+              {
+                "confidence": 1,
+                "from": 215.52000427246094,
+                "to": 216.15000915527344,
+                "word": "everybody"
+              },
+              {
+                "confidence": 0.9670538306236267,
+                "from": 216.17901611328125,
+                "to": 216.29505920410156,
+                "word": "you"
+              },
+              {
+                "confidence": 0.9670538306236267,
+                "from": 216.29505920410156,
+                "to": 216.44012451171875,
+                "word": "know"
+              },
+              {
+                "confidence": 1,
+                "from": 216.45098876953125,
+                "to": 216.6300048828125,
+                "word": "and"
+              },
+              {
+                "confidence": 1,
+                "from": 216.6300048828125,
+                "to": 216.77999877929688,
+                "word": "if"
+              },
+              {
+                "confidence": 1,
+                "from": 216.77999877929688,
+                "to": 216.90000915527344,
+                "word": "they"
+              },
+              {
+                "confidence": 1,
+                "from": 216.90000915527344,
+                "to": 217.13999938964844,
+                "word": "just"
+              },
+              {
+                "confidence": 1,
+                "from": 217.13999938964844,
+                "to": 217.44000244140625,
+                "word": "can't"
+              },
+              {
+                "confidence": 1,
+                "from": 217.44000244140625,
+                "to": 217.65000915527344,
+                "word": "make"
+              },
+              {
+                "confidence": 1,
+                "from": 217.65000915527344,
+                "to": 217.8000030517578,
+                "word": "it"
+              },
+              {
+                "confidence": 1,
+                "from": 217.86000061035156,
+                "to": 218.37001037597656,
+                "word": "uh"
+              },
+              {
+                "confidence": 1,
+                "from": 218.5500030517578,
+                "to": 218.82000732421875,
+                "word": "it's"
+              },
+              {
+                "confidence": 1,
+                "from": 218.82000732421875,
+                "to": 219.0600128173828,
+                "word": "like"
+              },
+              {
+                "confidence": 1,
+                "from": 219.0600128173828,
+                "to": 219.27000427246094,
+                "word": "other"
+              },
+              {
+                "confidence": 1,
+                "from": 219.27000427246094,
+                "to": 219.57000732421875,
+                "word": "things"
+              },
+              {
+                "confidence": 0.7625288367271423,
+                "from": 219.57000732421875,
+                "to": 219.7028045654297,
+                "word": "you"
+              },
+              {
+                "confidence": 0.8513912558555603,
+                "from": 219.7028045654297,
+                "to": 219.92555236816406,
+                "word": "you"
+              },
+              {
+                "confidence": 0.7893317937850952,
+                "from": 219.9300079345703,
+                "to": 220.35000610351562,
+                "word": "lesson"
+              },
+              {
+                "confidence": 1,
+                "from": 220.35000610351562,
+                "to": 220.47000122070312,
+                "word": "as"
+              },
+              {
+                "confidence": 1,
+                "from": 220.5,
+                "to": 220.6800079345703,
+                "word": "soon"
+              },
+              {
+                "confidence": 1,
+                "from": 220.6800079345703,
+                "to": 220.8000030517578,
+                "word": "as"
+              },
+              {
+                "confidence": 1,
+                "from": 220.8000030517578,
+                "to": 220.95001220703125,
+                "word": "they"
+              },
+              {
+                "confidence": 1,
+                "from": 220.95001220703125,
+                "to": 221.25,
+                "word": "can"
+              },
+              {
+                "confidence": 1,
+                "from": 221.25,
+                "to": 221.49000549316406,
+                "word": "make"
+              },
+              {
+                "confidence": 1,
+                "from": 221.49000549316406,
+                "to": 221.67001342773438,
+                "word": "it"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 34
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "you try to demand that much of them but if they can't make it and and there are people you know who who are not we're not as healthy and so on and so forth",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 222.6300048828125,
+                "to": 222.77999877929688,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 222.77999877929688,
+                "to": 222.9600067138672,
+                "word": "try"
+              },
+              {
+                "confidence": 1,
+                "from": 222.9600067138672,
+                "to": 223.0800018310547,
+                "word": "to"
+              },
+              {
+                "confidence": 1,
+                "from": 223.0800018310547,
+                "to": 223.47000122070312,
+                "word": "demand"
+              },
+              {
+                "confidence": 1,
+                "from": 223.47000122070312,
+                "to": 223.6199951171875,
+                "word": "that"
+              },
+              {
+                "confidence": 1,
+                "from": 223.6199951171875,
+                "to": 223.86000061035156,
+                "word": "much"
+              },
+              {
+                "confidence": 1,
+                "from": 223.86000061035156,
+                "to": 224.00999450683594,
+                "word": "of"
+              },
+              {
+                "confidence": 1,
+                "from": 224.00999450683594,
+                "to": 224.16000366210938,
+                "word": "them"
+              },
+              {
+                "confidence": 1,
+                "from": 224.16000366210938,
+                "to": 224.27999877929688,
+                "word": "but"
+              },
+              {
+                "confidence": 1,
+                "from": 224.27999877929688,
+                "to": 224.39999389648438,
+                "word": "if"
+              },
+              {
+                "confidence": 1,
+                "from": 224.39999389648438,
+                "to": 224.52000427246094,
+                "word": "they"
+              },
+              {
+                "confidence": 1,
+                "from": 224.52000427246094,
+                "to": 224.8199920654297,
+                "word": "can't"
+              },
+              {
+                "confidence": 1,
+                "from": 224.8199920654297,
+                "to": 224.97000122070312,
+                "word": "make"
+              },
+              {
+                "confidence": 1,
+                "from": 224.97000122070312,
+                "to": 225.05999755859375,
+                "word": "it"
+              },
+              {
+                "confidence": 1,
+                "from": 225.05999755859375,
+                "to": 225.27000427246094,
+                "word": "and"
+              },
+              {
+                "confidence": 1,
+                "from": 225.27000427246094,
+                "to": 225.4199981689453,
+                "word": "and"
+              },
+              {
+                "confidence": 1,
+                "from": 225.4199981689453,
+                "to": 225.5399932861328,
+                "word": "there"
+              },
+              {
+                "confidence": 1,
+                "from": 225.5399932861328,
+                "to": 225.6300048828125,
+                "word": "are"
+              },
+              {
+                "confidence": 1,
+                "from": 225.6300048828125,
+                "to": 225.9600067138672,
+                "word": "people"
+              },
+              {
+                "confidence": 0.733085036277771,
+                "from": 225.9600067138672,
+                "to": 226.0479736328125,
+                "word": "you"
+              },
+              {
+                "confidence": 0.733085036277771,
+                "from": 226.0479736328125,
+                "to": 226.15792846679688,
+                "word": "know"
+              },
+              {
+                "confidence": 1,
+                "from": 226.22999572753906,
+                "to": 226.44000244140625,
+                "word": "who"
+              },
+              {
+                "confidence": 1,
+                "from": 226.52999877929688,
+                "to": 226.64999389648438,
+                "word": "who"
+              },
+              {
+                "confidence": 1,
+                "from": 226.64999389648438,
+                "to": 226.77000427246094,
+                "word": "are"
+              },
+              {
+                "confidence": 1,
+                "from": 226.77000427246094,
+                "to": 227.1300048828125,
+                "word": "not"
+              },
+              {
+                "confidence": 0.42770883440971375,
+                "from": 227.7519073486328,
+                "to": 227.92027282714844,
+                "word": "we're"
+              },
+              {
+                "confidence": 0.6098447442054749,
+                "from": 227.95216369628906,
+                "to": 228.1192169189453,
+                "word": "not"
+              },
+              {
+                "confidence": 0.5225439071655273,
+                "from": 228.1192169189453,
+                "to": 228.24000549316406,
+                "word": "as"
+              },
+              {
+                "confidence": 1,
+                "from": 228.24000549316406,
+                "to": 228.60000610351562,
+                "word": "healthy"
+              },
+              {
+                "confidence": 1,
+                "from": 228.60000610351562,
+                "to": 228.75,
+                "word": "and"
+              },
+              {
+                "confidence": 1,
+                "from": 228.75,
+                "to": 228.89999389648438,
+                "word": "so"
+              },
+              {
+                "confidence": 1,
+                "from": 228.89999389648438,
+                "to": 228.99000549316406,
+                "word": "on"
+              },
+              {
+                "confidence": 1,
+                "from": 228.99000549316406,
+                "to": 229.11000061035156,
+                "word": "and"
+              },
+              {
+                "confidence": 1,
+                "from": 229.11000061035156,
+                "to": 229.2899932861328,
+                "word": "so"
+              },
+              {
+                "confidence": 1,
+                "from": 229.2899932861328,
+                "to": 229.8000030517578,
+                "word": "forth"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 35
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "but they can find other things for them to do also",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 230.8100128173828,
+                "to": 230.99000549316406,
+                "word": "but"
+              },
+              {
+                "confidence": 1,
+                "from": 230.99000549316406,
+                "to": 231.11000061035156,
+                "word": "they"
+              },
+              {
+                "confidence": 1,
+                "from": 231.11000061035156,
+                "to": 231.29000854492188,
+                "word": "can"
+              },
+              {
+                "confidence": 1,
+                "from": 231.29000854492188,
+                "to": 231.5,
+                "word": "find"
+              },
+              {
+                "confidence": 1,
+                "from": 231.53001403808594,
+                "to": 231.74000549316406,
+                "word": "other"
+              },
+              {
+                "confidence": 1,
+                "from": 231.74000549316406,
+                "to": 232.010009765625,
+                "word": "things"
+              },
+              {
+                "confidence": 1,
+                "from": 232.010009765625,
+                "to": 232.1300048828125,
+                "word": "for"
+              },
+              {
+                "confidence": 1,
+                "from": 232.1300048828125,
+                "to": 232.3100128173828,
+                "word": "them"
+              },
+              {
+                "confidence": 1,
+                "from": 232.3100128173828,
+                "to": 232.40000915527344,
+                "word": "to"
+              },
+              {
+                "confidence": 1,
+                "from": 232.40000915527344,
+                "to": 232.5500030517578,
+                "word": "do"
+              },
+              {
+                "confidence": 1,
+                "from": 232.5500030517578,
+                "to": 233.0600128173828,
+                "word": "also"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 36
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "i mean it's it's like in high school or junior high or wherever that certain people are",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 235.47000122070312,
+                "to": 235.55999755859375,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 235.55999755859375,
+                "to": 235.70999145507812,
+                "word": "mean"
+              },
+              {
+                "confidence": 0.8654854893684387,
+                "from": 235.70999145507812,
+                "to": 235.85345458984375,
+                "word": "it's"
+              },
+              {
+                "confidence": 1,
+                "from": 235.85345458984375,
+                "to": 236.0399932861328,
+                "word": "it's"
+              },
+              {
+                "confidence": 1,
+                "from": 236.0399932861328,
+                "to": 236.25,
+                "word": "like"
+              },
+              {
+                "confidence": 1,
+                "from": 236.25,
+                "to": 236.3699951171875,
+                "word": "in"
+              },
+              {
+                "confidence": 1,
+                "from": 236.3699951171875,
+                "to": 236.51998901367188,
+                "word": "high"
+              },
+              {
+                "confidence": 1,
+                "from": 236.51998901367188,
+                "to": 236.87998962402344,
+                "word": "school"
+              },
+              {
+                "confidence": 1,
+                "from": 236.87998962402344,
+                "to": 237.239990234375,
+                "word": "or"
+              },
+              {
+                "confidence": 1,
+                "from": 237.5399932861328,
+                "to": 237.92999267578125,
+                "word": "junior"
+              },
+              {
+                "confidence": 1,
+                "from": 237.92999267578125,
+                "to": 238.0800018310547,
+                "word": "high"
+              },
+              {
+                "confidence": 1,
+                "from": 238.0800018310547,
+                "to": 238.1999969482422,
+                "word": "or"
+              },
+              {
+                "confidence": 1,
+                "from": 238.1999969482422,
+                "to": 238.739990234375,
+                "word": "wherever"
+              },
+              {
+                "confidence": 1,
+                "from": 239.09999084472656,
+                "to": 239.27999877929688,
+                "word": "that"
+              },
+              {
+                "confidence": 1,
+                "from": 239.27999877929688,
+                "to": 239.54998779296875,
+                "word": "certain"
+              },
+              {
+                "confidence": 1,
+                "from": 239.54998779296875,
+                "to": 239.9399871826172,
+                "word": "people"
+              },
+              {
+                "confidence": 1,
+                "from": 239.9399871826172,
+                "to": 240.20999145507812,
+                "word": "are"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 37
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "excuse me from going to gym class or whatever but in the mean almost everybody has to do it",
+            "words": [
+              {
+                "confidence": 0.8577347993850708,
+                "from": 241.34866333007812,
+                "to": 241.8375701904297,
+                "word": "excuse"
+              },
+              {
+                "confidence": 0.8577347993850708,
+                "from": 241.85891723632812,
+                "to": 242,
+                "word": "me"
+              },
+              {
+                "confidence": 1,
+                "from": 242.02999877929688,
+                "to": 242.24000549316406,
+                "word": "from"
+              },
+              {
+                "confidence": 1,
+                "from": 242.24000549316406,
+                "to": 242.4499969482422,
+                "word": "going"
+              },
+              {
+                "confidence": 1,
+                "from": 242.4499969482422,
+                "to": 242.54000854492188,
+                "word": "to"
+              },
+              {
+                "confidence": 1,
+                "from": 242.54000854492188,
+                "to": 242.77999877929688,
+                "word": "gym"
+              },
+              {
+                "confidence": 1,
+                "from": 242.77999877929688,
+                "to": 243.13999938964844,
+                "word": "class"
+              },
+              {
+                "confidence": 1,
+                "from": 243.13999938964844,
+                "to": 243.22999572753906,
+                "word": "or"
+              },
+              {
+                "confidence": 1,
+                "from": 243.22999572753906,
+                "to": 243.7100067138672,
+                "word": "whatever"
+              },
+              {
+                "confidence": 1,
+                "from": 244.25,
+                "to": 244.49000549316406,
+                "word": "but"
+              },
+              {
+                "confidence": 1,
+                "from": 244.49000549316406,
+                "to": 244.61000061035156,
+                "word": "in"
+              },
+              {
+                "confidence": 1,
+                "from": 244.61000061035156,
+                "to": 244.6999969482422,
+                "word": "the"
+              },
+              {
+                "confidence": 0.9769507646560669,
+                "from": 244.6999969482422,
+                "to": 245.1199951171875,
+                "word": "mean"
+              },
+              {
+                "confidence": 1,
+                "from": 245.14999389648438,
+                "to": 245.50999450683594,
+                "word": "almost"
+              },
+              {
+                "confidence": 1,
+                "from": 245.50999450683594,
+                "to": 245.8699951171875,
+                "word": "everybody"
+              },
+              {
+                "confidence": 1,
+                "from": 245.8699951171875,
+                "to": 246.11000061035156,
+                "word": "has"
+              },
+              {
+                "confidence": 1,
+                "from": 246.11000061035156,
+                "to": 246.22999572753906,
+                "word": "to"
+              },
+              {
+                "confidence": 1,
+                "from": 246.22999572753906,
+                "to": 246.3800048828125,
+                "word": "do"
+              },
+              {
+                "confidence": 1,
+                "from": 246.3800048828125,
+                "to": 246.5,
+                "word": "it"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 38
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "but",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 250.0800018310547,
+                "to": 250.34999084472656,
+                "word": "but"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 39
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "and and and college doesn't really do it",
+            "words": [
+              {
+                "confidence": 0.5872027277946472,
+                "from": 262.5859069824219,
+                "to": 262.7660827636719,
+                "word": "and"
+              },
+              {
+                "confidence": 0.7620973587036133,
+                "from": 262.8533020019531,
+                "to": 263.0616455078125,
+                "word": "and"
+              },
+              {
+                "confidence": 0.6607894897460938,
+                "from": 263.11260986328125,
+                "to": 263.30999755859375,
+                "word": "and"
+              },
+              {
+                "confidence": 1,
+                "from": 263.30999755859375,
+                "to": 263.7300109863281,
+                "word": "college"
+              },
+              {
+                "confidence": 1,
+                "from": 263.7300109863281,
+                "to": 264,
+                "word": "doesn't"
+              },
+              {
+                "confidence": 1,
+                "from": 264,
+                "to": 264.239990234375,
+                "word": "really"
+              },
+              {
+                "confidence": 1,
+                "from": 264.239990234375,
+                "to": 264.4200134277344,
+                "word": "do"
+              },
+              {
+                "confidence": 1,
+                "from": 264.4200134277344,
+                "to": 264.6600036621094,
+                "word": "it"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 40
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "yeah first of all not everybody gets a chance to go to college but in college i mean you're still among basically the same class of people that you've grown up with",
+            "words": [
+              {
+                "confidence": 0.8818992972373962,
+                "from": 265.9964599609375,
+                "to": 266.15521240234375,
+                "word": "yeah"
+              },
+              {
+                "confidence": 1,
+                "from": 266.2099914550781,
+                "to": 266.4200134277344,
+                "word": "first"
+              },
+              {
+                "confidence": 1,
+                "from": 266.4200134277344,
+                "to": 266.4800109863281,
+                "word": "of"
+              },
+              {
+                "confidence": 1,
+                "from": 266.4800109863281,
+                "to": 266.6129455566406,
+                "word": "all"
+              },
+              {
+                "confidence": 1,
+                "from": 266.6385192871094,
+                "to": 266.7799987792969,
+                "word": "not"
+              },
+              {
+                "confidence": 1,
+                "from": 266.7799987792969,
+                "to": 267.1400146484375,
+                "word": "everybody"
+              },
+              {
+                "confidence": 1,
+                "from": 267.1400146484375,
+                "to": 267.3500061035156,
+                "word": "gets"
+              },
+              {
+                "confidence": 1,
+                "from": 267.3500061035156,
+                "to": 267.4100036621094,
+                "word": "a"
+              },
+              {
+                "confidence": 1,
+                "from": 267.4100036621094,
+                "to": 267.739990234375,
+                "word": "chance"
+              },
+              {
+                "confidence": 1,
+                "from": 267.739990234375,
+                "to": 267.8299865722656,
+                "word": "to"
+              },
+              {
+                "confidence": 1,
+                "from": 267.8299865722656,
+                "to": 267.95001220703125,
+                "word": "go"
+              },
+              {
+                "confidence": 1,
+                "from": 267.95001220703125,
+                "to": 268.0400085449219,
+                "word": "to"
+              },
+              {
+                "confidence": 1,
+                "from": 268.07000732421875,
+                "to": 268.54998779296875,
+                "word": "college"
+              },
+              {
+                "confidence": 1,
+                "from": 268.9700012207031,
+                "to": 269.239990234375,
+                "word": "but"
+              },
+              {
+                "confidence": 1,
+                "from": 269.239990234375,
+                "to": 269.3900146484375,
+                "word": "in"
+              },
+              {
+                "confidence": 1,
+                "from": 269.3900146484375,
+                "to": 269.8999938964844,
+                "word": "college"
+              },
+              {
+                "confidence": 1,
+                "from": 269.92999267578125,
+                "to": 270.0199890136719,
+                "word": "i"
+              },
+              {
+                "confidence": 1,
+                "from": 270.0199890136719,
+                "to": 270.2300109863281,
+                "word": "mean"
+              },
+              {
+                "confidence": 0.9574071168899536,
+                "from": 270.2300109863281,
+                "to": 270.4100036621094,
+                "word": "you're"
+              },
+              {
+                "confidence": 1,
+                "from": 270.4100036621094,
+                "to": 270.95001220703125,
+                "word": "still"
+              },
+              {
+                "confidence": 1,
+                "from": 271.5199890136719,
+                "to": 272.0899963378906,
+                "word": "among"
+              },
+              {
+                "confidence": 1,
+                "from": 272.1499938964844,
+                "to": 272.80999755859375,
+                "word": "basically"
+              },
+              {
+                "confidence": 1,
+                "from": 272.80999755859375,
+                "to": 272.9599914550781,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 272.989990234375,
+                "to": 273.2300109863281,
+                "word": "same"
+              },
+              {
+                "confidence": 1,
+                "from": 273.260009765625,
+                "to": 273.6199951171875,
+                "word": "class"
+              },
+              {
+                "confidence": 1,
+                "from": 273.6199951171875,
+                "to": 273.7099914550781,
+                "word": "of"
+              },
+              {
+                "confidence": 1,
+                "from": 273.739990234375,
+                "to": 274.0400085449219,
+                "word": "people"
+              },
+              {
+                "confidence": 1,
+                "from": 274.0400085449219,
+                "to": 274.1600036621094,
+                "word": "that"
+              },
+              {
+                "confidence": 1,
+                "from": 274.1600036621094,
+                "to": 274.2799987792969,
+                "word": "you've"
+              },
+              {
+                "confidence": 1,
+                "from": 274.30999755859375,
+                "to": 274.54998779296875,
+                "word": "grown"
+              },
+              {
+                "confidence": 1,
+                "from": 274.54998779296875,
+                "to": 274.760009765625,
+                "word": "up"
+              },
+              {
+                "confidence": 1,
+                "from": 274.760009765625,
+                "to": 275.1499938964844,
+                "word": "with"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 41
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "so you don't get to see how the other half lives or the other two thirds or however many there are now",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 276.2799987792969,
+                "to": 276.3999938964844,
+                "word": "so"
+              },
+              {
+                "confidence": 1,
+                "from": 276.3999938964844,
+                "to": 276.58001708984375,
+                "word": "you"
+              },
+              {
+                "confidence": 1,
+                "from": 276.58001708984375,
+                "to": 276.7900085449219,
+                "word": "don't"
+              },
+              {
+                "confidence": 1,
+                "from": 276.7900085449219,
+                "to": 276.9100036621094,
+                "word": "get"
+              },
+              {
+                "confidence": 1,
+                "from": 276.9100036621094,
+                "to": 277.0299987792969,
+                "word": "to"
+              },
+              {
+                "confidence": 1,
+                "from": 277.0299987792969,
+                "to": 277.21002197265625,
+                "word": "see"
+              },
+              {
+                "confidence": 1,
+                "from": 277.21002197265625,
+                "to": 277.3600158691406,
+                "word": "how"
+              },
+              {
+                "confidence": 1,
+                "from": 277.3600158691406,
+                "to": 277.510009765625,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 277.510009765625,
+                "to": 277.7200012207031,
+                "word": "other"
+              },
+              {
+                "confidence": 1,
+                "from": 277.7200012207031,
+                "to": 277.96002197265625,
+                "word": "half"
+              },
+              {
+                "confidence": 0.9293375015258789,
+                "from": 277.96002197265625,
+                "to": 278.2784423828125,
+                "word": "lives"
+              },
+              {
+                "confidence": 0.6403050422668457,
+                "from": 278.28009033203125,
+                "to": 278.4100036621094,
+                "word": "or"
+              },
+              {
+                "confidence": 1,
+                "from": 278.4100036621094,
+                "to": 278.5299987792969,
+                "word": "the"
+              },
+              {
+                "confidence": 1,
+                "from": 278.5299987792969,
+                "to": 278.8000183105469,
+                "word": "other"
+              },
+              {
+                "confidence": 1,
+                "from": 279.2200012207031,
+                "to": 279.42999267578125,
+                "word": "two"
+              },
+              {
+                "confidence": 1,
+                "from": 279.42999267578125,
+                "to": 279.7900085449219,
+                "word": "thirds"
+              },
+              {
+                "confidence": 1,
+                "from": 279.7900085449219,
+                "to": 279.9100036621094,
+                "word": "or"
+              },
+              {
+                "confidence": 1,
+                "from": 279.9100036621094,
+                "to": 280.27001953125,
+                "word": "however"
+              },
+              {
+                "confidence": 1,
+                "from": 280.27001953125,
+                "to": 280.510009765625,
+                "word": "many"
+              },
+              {
+                "confidence": 1,
+                "from": 280.510009765625,
+                "to": 280.69000244140625,
+                "word": "there"
+              },
+              {
+                "confidence": 1,
+                "from": 280.69000244140625,
+                "to": 280.8699951171875,
+                "word": "are"
+              },
+              {
+                "confidence": 1,
+                "from": 280.8699951171875,
+                "to": 281.1700134277344,
+                "word": "now"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 42
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "um",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 282.3399963378906,
+                "to": 282.70001220703125,
+                "word": "um"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 43
+  },
+  {
+    "result": [
+      {
+        "alternative": [
+          {
+            "confidence": 1,
+            "transcript": "i am old enough i'm over fifty",
+            "words": [
+              {
+                "confidence": 1,
+                "from": 283.6692810058594,
+                "to": 283.9417724609375,
+                "word": "i"
+              },
+              {
+                "confidence": 0.7759896516799927,
+                "from": 284.00494384765625,
+                "to": 284.2300109863281,
+                "word": "am"
+              },
+              {
+                "confidence": 1,
+                "from": 284.2300109863281,
+                "to": 284.4700012207031,
+                "word": "old"
+              },
+              {
+                "confidence": 1,
+                "from": 284.4700012207031,
+                "to": 284.8900146484375,
+                "word": "enough"
+              },
+              {
+                "confidence": 1,
+                "from": 284.9200134277344,
+                "to": 285.1300048828125,
+                "word": "i'm"
+              },
+              {
+                "confidence": 1,
+                "from": 285.1300048828125,
+                "to": 285.3700256347656,
+                "word": "over"
+              },
+              {
+                "confidence": 1,
+                "from": 285.3700256347656,
+                "to": 285.8500061035156,
+                "word": "fifty"
+              }
+            ]
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 44
+  }
+]
