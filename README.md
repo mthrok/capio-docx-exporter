@@ -5,6 +5,8 @@ Generate Word document from Capio transcript
 
 ## 1. Setup
 
+This package can be run as command line tool. Either you can install it in your local environment, or in a Docker container.
+
 - Install as command line tool.
 
 This package runs on Python 3.6 runtime.
