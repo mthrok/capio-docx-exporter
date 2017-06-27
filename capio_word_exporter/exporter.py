@@ -2,6 +2,7 @@
 from docx import Document
 from docx.shared import RGBColor
 
+
 def _format_time(seconds):
     """Convert time """
     sec = seconds % 60

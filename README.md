@@ -1,10 +1,11 @@
+[![CircleCI](https://circleci.com/gh/mthrok/capio-word-exporter.svg?style=svg)](https://circleci.com/gh/mthrok/capio-word-exporter)
+
 # capio-word-exporter
 Generate Word document from Capio transcription result
 
-
 ## Setup
 
-### Python environment.
+### Install as command line tool.
 
 This package runs on Python 3.6 runtime.
 For the clean install, use either Anaconda or Virtualenv to create new environment.
