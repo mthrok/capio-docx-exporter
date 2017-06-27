@@ -4,6 +4,7 @@ import argparse
 
 from .api_client import fetch_transcript
 from .parser import parse_transcript
+from .exporter import gen_docx
 
 _LG = logging.getLogger(__name__)
 
@@ -18,6 +19,9 @@ def _parse_command_line_args():
     )
     parser.add_argument(
         '--key', help='API KEY', default='262ac9a0c9ba4d179aad4c0b9b02120a',
+    )
+    parser.add_argument(
+        '--output', help='Output docx file. If not given, `result_<id>.docx`'
     )
     parser.add_argument(
         '--debug', help='Enable debug log', action='store_true',
@@ -41,11 +45,13 @@ def main():
     """
     args = _parse_command_line_args()
     _init_logging(args.debug)
+    _LG.info('Fetching data from capio API')
     data = fetch_transcript(args.id, args.key)
-    data = parse_transcript(data)
-
-    import json
-    _LG.info(json.dumps(data, indent=2))
+    _LG.info('Parsing ...')
+    parsed = parse_transcript(data)
+    _LG.info('Generagin docx...')
+    output = args.output or 'result_{}.docx'.format(args.id)
+    gen_docx(parsed, output)
 
 
 if __name__ == '__main__':

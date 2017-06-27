@@ -24,7 +24,7 @@ You can use `capio_word_exporter` command line to run the exporter.
 Currently this command takes tanscript ID and API Key as arguments as follow. 
 
 ```
-capio_word_exporter --id <transcript_id> --key <api_key>
+capio_word_exporter --id <transcript_id> --key <api_key> --output <output file name>
 ```
 
 If you omit these, the default test values are used.

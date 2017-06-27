@@ -10,6 +10,7 @@ def _setup():
         test_suite='tests',
         install_requires=[
             'requests',
+            'python-docx',
         ],
         entry_points={
             'console_scripts': [

@@ -11,9 +11,11 @@ def _get_time_range(words):
 def _parse_words(words):
     ret = []
     for word in words:
+        _LG.debug('  %s', word)
         result = {'word': word['word']}
-        if word['confidence'] < 0.75:
-            result['color'] = 'red'
+        if word['confidence'] <= 0.75:
+            _LG.debug('   *Low confidence*')
+            result['color'] = (255, 0, 0)
         ret.append(result)
     return ret
 
@@ -30,6 +32,7 @@ def _parse_one_result(result):
             'Using the first entry.'
         )
     alternative = result[0]['alternative'][0]
+    _LG.debug('Parsing sentence: `%s`', alternative['transcript'])
     return {
         'time': _get_time_range(alternative['words']),
         'words': _parse_words(alternative['words']),
