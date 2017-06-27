@@ -1,7 +1,7 @@
 [![CircleCI](https://circleci.com/gh/mthrok/capio-word-exporter.svg?style=svg)](https://circleci.com/gh/mthrok/capio-word-exporter)
 
-# capio-word-exporter
-Generate Word document from Capio transcription result
+# Capio Transcript Word Exporter
+Generate Word document from Capio transcript
 
 ## 1. Setup
 
